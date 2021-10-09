@@ -1,7 +1,3 @@
-import API_TOKEN from "./key.js"
-
-const API_URL = "https://bing-news-search1.p.rapidapi.com/news?originalImg=true&cc=us&safeSearch=Off&textFormat=Raw";
-
 const settings = {
 	"async": true,
 	"crossDomain": true,
