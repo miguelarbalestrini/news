@@ -1,5 +1,5 @@
-import {API_URL} from "/.netlify/functions";
-import {API_TOKEN} from "/.netlify/functions";
+import API_URL from "/.netlify/functions";
+import API_TOKEN from "/.netlify/functions";
 
 const settings = {
 	"async": true,
