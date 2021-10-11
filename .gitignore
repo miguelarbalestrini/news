@@ -41,8 +41,6 @@ build/Release
 node_modules/
 jspm_packages/
 package-lock.json
-package.json
-key.js
 
 # TypeScript v1 declaration files
 typings/
@@ -105,3 +103,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Local Netlify folder
+.netlify
